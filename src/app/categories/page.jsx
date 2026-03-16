@@ -3,7 +3,9 @@ import Link from "next/link";
 import path from "path";
 import fs from "fs";
 
-export default async function Page() {
+
+
+export default async function generateStaticParams() {
   const filePath = path.join(process.cwd(), "data", "db.json");
   const jsonData = fs.readFileSync(filePath, "utf8");
   const data = JSON.parse(jsonData);
