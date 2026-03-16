@@ -1,0 +1,685 @@
+{
+
+  "categories": [
+    {
+      "id": "card01",
+      "title": "العروض",
+      "slug": "offers",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/e5d02a28-b378-4e1a-8f8c-e1d0668e2c0c.jpeg"
+    },
+    {
+      "id": "card02",
+      "title": "الادوية الوصفية",
+      "slug": "/categories/prescriptionedications",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/1a0d3713-7045-46c8-90e3-41c8d2a85f98.png"
+    },
+    {
+      "id": "card03",
+      "title": "أدوية بدون روشتة",
+      "slug": "/categories/over-the-counter-medications",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/5871557e-0db1-4901-8448-6cf620b6103b.png"
+    },
+    {
+      "id": "card04",
+      "title": "العناية بالأم والطفل",
+      "slug": "/categories/Mother-and-child-care",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/fe7cad45-d6c1-4c0e-a149-4487323904c1.jpeg"
+    },
+    {
+      "id": "card05",
+      "title": "الفيتامينات والتغذية",
+      "slug": "/categories/Vitamins-and-Nutrition",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/5420553f-0a78-4564-9206-febb45594ddb.png"
+    },
+    {
+      "id": "card06",
+      "title": "مكافحة العدوي",
+      "slug": "/categories/Infection-control",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/3f19735d-c6dc-4eb9-9a31-93994ee4d1c5.png"
+    },
+    {
+      "id": "card07",
+      "title": "العناية بالوجه والجسم",
+      "slug": "/categories/Face-and-body-care",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/9972fa72-f10a-40aa-995d-61e6d9f089f9.png"
+    },
+    {
+      "id": "card08",
+      "title": "العناية بالمرأة",
+      "slug": "/categories/Women-care",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/de6eea8b-08ba-43b7-8079-077f8abab0d6.png"
+    },
+    {
+      "id": "card09",
+      "title": "العناية بالرجل",
+      "slug": "/categories/Men-care",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/e3189402-8fa1-4e49-a8ad-a9b2b961f823.png"
+    },
+    {
+      "id": "card10",
+      "title": "العناية بالشعر",
+      "slug": "/categories/Hair-care",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/f7e61b59-5198-49db-a724-4b9dc9c12f4a.png"
+    },
+    {
+      "id": "card11",
+      "title": "مستلزمات طبية",
+      "slug": "/categories/medical-supplies",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/1a859448-185f-48d3-8144-406ebafeb4a2.png"
+    },
+    {
+      "id": "card12",
+      "title": "كبار السن",
+      "slug": "/categories/the elderly",
+      "image":"https://cdn-med-images.vezeeta.com/headCategories/9c7ad48d-045c-4118-9ebd-68f3d5ac377e.png"
+    }
+  ],
+  "Products": [
+    {
+      "id": "1",
+      "title": "ريبلسس 14مج | 30 قرص",
+      "price": "115.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/0000001027874.jpg",
+      "description": "يستخدم دواء ريبلسس لعلاج مرضى السكرى النوع الثانى , و يستخدم ايضا في حالات تقليل الوزن",
+      "categories":"Prescriptionedications",
+      "priceNow":"115.00 EGP"
+    },
+    {
+      "id": "2",
+      "title": "ريبلسس 7مج | 30 قرصا",
+      "price": "85.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1027875.jpg",
+      "description": "يحتوي ريبيلسس على المادة الفعالة semaglutide. وهو دواء يستخدم لخفض مستويات السكر في الدم.",
+      "categories":"prescriptionedications",
+      "priceNow":"85.00 EGP"
+    },
+    {
+      "id": "3",
+      "title":"ساكسيندا 6مج مل | 5أقلام",
+      "price": "65.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1011450.png",
+      "description": "يستخدم لإنقاص الوزن بالإضافة إلى النظام الغذائي وممارسة الرياضة للبالغين الذين تبلغ أعمارهم 18 عامًا فما فوق والذين لديهم مؤشر كتلة الجسم 30 كجم / م 2 أو أكثر ، أو مؤشر كتلة الجسم 27 كجم / م 2 وأقل مع مشاكل صحية متعلقة بالوزن كيفية الاستخدام: سيطلب منك طبيبك زيادة جرعتك تدريجياً بمقدار 0.6 مجم كل أسبوع حتى تصل إلى الجرعة الموصى بها وهي 3.0 مجم مرة في اليوم. التحذيرات و الاحتياطات: يحفظ في الثلاجة (2 درجة مئوية إلى 8 درجات مئوية) الطعم: لا يوجد التركيز: 6ملغم/مل المكونات الفعالة: ليراغلوتايد مقاس العبوة: 3مل",
+      "categories":"Prescriptionedications",
+      "priceNow":"65.00 EGP"
+    },
+    {
+      "id": "4",
+      "title": "سولبادين فوار | 20 قرص",
+      "price": "120.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1002329.jpg",
+      "description": "هذا المزيج يتكون من ثلاثة مكونات نشطة ؛ باراسيتامول وكودين وكافيين.",
+      "categories":"prescriptionedications",
+      "priceNow":"120.00 EGP"
+    },
+    {
+      "id": "5",
+      "title": "اوزيمبك 0.5 مج | 1 قلم",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1022252.jpg",
+      "description": "يستخدم كعامل مساعد للنظام الغذائي والتمارين الرياضية لتحسين التحكم في نسبة السكر في الدم لدى البالغين المصابين بداء السكري من النوع 2.",
+      "categories":"prescriptionedications",
+      "priceNow":"245.00 EGP"
+    },
+    {
+      "id": "6",
+      "title": "ريبلسس 14مج | 30 قرص",
+      "price": "115.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/0000001027874.jpg",
+      "description": "يحتوي دواء ريبلسس على مادة فعالة سيماجلوتايد وهي تنتمي إلى مجموعة من الأدوية تسمى تعمل بشكل مشابه لهرمون طبيعي يسمى GLP-1 , والتي يتم إفرازها بشكل مباشرة بعد تناول الطعام.",
+      "categories":"prescriptionedications",
+      "priceNow":"115.00 EGP"
+    },
+    {
+      "id": "7",
+      "title": "ريبلسس 7مج | 30 قرصا",
+      "price": "85.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1027875.jpg",
+      "description": "يحتوي ريبيلسس على المادة الفعالة semaglutide. وهو دواء يستخدم لخفض مستويات السكر في الدم.",
+      "categories":"prescriptionedications",
+      "priceNow":"85.00 EGP"
+    },
+    {
+      "id": "8",
+      "title":"ساكسيندا 6مج مل | 5أقلام",
+      "price": "65.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1011450.png",
+      "description": "يستخدم لإنقاص الوزن بالإضافة إلى النظام الغذائي وممارسة الرياضة للبالغين الذين تبلغ أعمارهم 18 عامًا فما فوق والذين لديهم مؤشر كتلة الجسم 30 كجم / م 2 أو أكثر ، أو مؤشر كتلة الجسم 27 كجم / م 2 وأقل مع مشاكل صحية متعلقة بالوزن كيفية الاستخدام: سيطلب منك طبيبك زيادة جرعتك تدريجياً بمقدار 0.6 مجم كل أسبوع حتى تصل إلى الجرعة الموصى بها وهي 3.0 مجم مرة في اليوم. التحذيرات و الاحتياطات: يحفظ في الثلاجة (2 درجة مئوية إلى 8 درجات مئوية) الطعم: لا يوجد التركيز: 6ملغم/مل المكونات الفعالة: ليراغلوتايد مقاس العبوة: 3مل",
+      "categories":"prescriptionedications",
+      "priceNow":"65.00 EGP"
+    },
+    {
+      "id": "9",
+      "title": "سولبادين فوار | 20 قرص",
+      "price": "120.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1002329.jpg",
+      "description": "هذا المزيج يتكون من ثلاثة مكونات نشطة ؛ باراسيتامول وكودين وكافيين.",
+      "categories":"prescriptionedications",
+      "priceNow":"120.00 EGP"
+    },
+    
+    {
+      "id": "11",
+      "title": "ريني | 48قرص للمضغ",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1002131.webp",
+      "description": "توفر أقراص ريني راحة سريعة من حرقة المعدة وعسر الهضم ,أينما كنت، فإن ريني بجانبك - ليلاً أو نهاراً",
+      "categories":"over-the-counter-medications",
+      "priceNow":"245.00 EGP"
+    },
+    {
+      "id": "12",
+      "title": "دلكولاكس 5مج | 40 كبسول",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/105702.jpg",
+      "description": "دولكولاكس، 5 مجم، يساعد على تقليل الإمساك - 40 قرص ,يعمل بيساكوديل عن طريق تحفيز الخلايا العصبية المعوية لتزيد من التقلصات، وهو أيضًا ملين يزيد من إفراز السوائل والملح",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "13",
+      "title": "ايموديوم انستانت 2مج | 6 أقراص",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1011400.jpg",
+      "description": "يستخدم لعلاج نوبات الإسهال الحادة عند البالغين والأطفال فوق 9 سنوات والإسهال المزمن عند البالغين ,يساعد في تقليل الإسهال عن طريق إبطاء فرط نشاط الأمعاء لامتصاص الماء والأملاح",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "14",
+      "title": "كاتيونورم مستحلب قطرة للعين | 30جرعة",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1000452.png",
+      "description": "كاتينورم مستحلب للعين 30 جرعه وصف المنتج عباره عن مستحلب مرطب ومزلق يحمى سطح العين ويخفف من الانزعاج والتهيج بسبب جفاف العين الناجم عن الاستخدام المطول للعدسات اللاصقه او ظروف البيئة المحيطه",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "15",
+      "title": "بارافون | 30 كبسولة",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "16",
+      "title": "ريني | 48قرص للمضغ",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1002131.webp",
+      "description": "توفر أقراص ريني راحة سريعة من حرقة المعدة وعسر الهضم ,أينما كنت، فإن ريني بجانبك - ليلاً أو نهاراً",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "17",
+      "title": "دلكولاكس 5مج | 40 كبسول",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/105702.jpg",
+      "description": "دولكولاكس، 5 مجم، يساعد على تقليل الإمساك - 40 قرص ,يعمل بيساكوديل عن طريق تحفيز الخلايا العصبية المعوية لتزيد من التقلصات، وهو أيضًا ملين يزيد من إفراز السوائل والملح",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "18",
+      "title": "ايموديوم انستانت 2مج | 6 أقراص",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1011400.jpg",
+      "description": "يستخدم لعلاج نوبات الإسهال الحادة عند البالغين والأطفال فوق 9 سنوات والإسهال المزمن عند البالغين ,يساعد في تقليل الإسهال عن طريق إبطاء فرط نشاط الأمعاء لامتصاص الماء والأملاح",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "19",
+      "title": "كاتيونورم مستحلب قطرة للعين | 30جرعة",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1000452.png",
+      "description": "كاتينورم مستحلب للعين 30 جرعه وصف المنتج عباره عن مستحلب مرطب ومزلق يحمى سطح العين ويخفف من الانزعاج والتهيج بسبب جفاف العين الناجم عن الاستخدام المطول للعدسات اللاصقه او ظروف البيئة المحيطه",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "20",
+      "title": "بارافون | 30 كبسولة",
+      "price": "245.00 EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"over-the-counter-medications",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "21",
+      "title": "اس 26 بروجرس جولد حليب بودرة للأطفال مرحلة 2 - 400 جم",
+      "price": "245.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/5/155415_100076.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "22",
+      "title": "بامبرز بريميوم كير ميدي حفاضات الأطفال مقاس 3 (6-10 كجم)- 62 حفاضة",
+      "price": "536.45 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/5ef41831b2e685c5c6a1349bd0c5a0d5/0/9/090818_457796.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "23",
+      "title": "جونسون كلونيا بندي الصباح للأطفال - 100 مل",
+      "price": "135.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/0/9/090933_450702.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "24",
+      "title": "بيو-أويل زيت العناية بالبشرة - 60 مل",
+      "price": "425.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/6/160052_455286.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care"
+    },
+    {
+      "id": "25",
+      "title": "ماجيك بيبيز شفاط حليب يدوي 180 مل",
+      "price": "960.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/1/114528_454888.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "26",
+      "title": "تراي تكت صابونة للاطفال 100GM",
+      "price": "60.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/4/1/410951_1.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "27",
+      "title": "سوبركيدز 2 في 1 ( شامبو و بلسم ) بالتوت الأزرق 500 مل",
+      "price": "190.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/5/155957_454837.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "28",
+      "title": "سوبركيدز شامبو للأطفال من عمر سنة برائحة ميلك العسل 300 مل",
+      "price": "120.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/5/155957_454841.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "29",
+      "title": "هيرو بيبي نيوتراديفنس حليب أطفال رقم (3) - 400 جم",
+      "price": "361.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/2/120802_122427.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "30",
+      "title": "جابلو ببرونة انسيابية 140م - زهري",
+      "price": "130.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/0/9/090141_457345.jpg",
+      "description": null,
+      "categories":"Mother-and-child-care"
+    },
+    {
+      "id": "31",
+      "title": "سينتروم مع لوتين - 100قرص",
+      "price": "710.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/0/0/000642_123745.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition"
+    },
+    {
+      "id": "32",
+      "title": "سيرين فيتامين د3 قطع حلوى - 60 قطعة",
+      "price": "240.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/3/133324_122794.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "33",
+      "title": "مونتو بروتين بودرة - 300 جم",
+      "price": "198.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/0/9/090705_123951.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "34",
+      "title": "دوروفين - 30 كبسول",
+      "price": "153.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/4/141924_102573.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "35",
+      "title": "ساكروفير 100 مجم - 5 مل - 5 أمبول للحقن الوريدي",
+      "price": "275.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/0/9/093010_115590.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "36",
+      "title": "ال ماج - 30 قرص",
+      "price": "147.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/4/145224_100592.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "37",
+      "title": "ثيوتاسيد كومب 300 مجم - 30 كبسول",
+      "price": "168.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/4/144837_104804.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "38",
+      "title": "ميلجا - 40 قرص",
+      "price": "108.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/5/154657_123328.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition"
+    },
+    {
+      "id": "39",
+      "title": "ناو ميلاتونين 3 مجم - 60 كبسول",
+      "price": "500.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/5/155743_122184.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "40",
+      "title": "ليمتلس اوميجا 3 2000 مجم - 30 قرص جيلايتين رخو",
+      "price": "230.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/4/144852_122577.jpg",
+      "description": null,
+      "categories":"Vitamins-and-Nutrition",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "41",
+      "title": "فابوكس جهاز استنشاق نيبولايزر",
+      "price": "1,585.00 EGP",
+      "image": "https://m.media-amazon.com/images/I/51Gs5Mp3LjL._UF1000,1000_QL80_.jpg",
+      "description": null,
+      "categories":"Infection-control",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "42",
+      "title": "قناع نيفيا للوجه الطبيعي بالصبار",
+      "price": "230.00 EGP",
+      "image": "https://www.se7rek.com/uploads/products/source/77367779.jpeg",
+      "description": null,
+      "categories":"Infection-control"
+    },
+    {
+      "id": "43",
+      "title": "قناع إيكيل فائق الترطيب - فيتامين 1 قطعة (25 مل)",
+      "price": "230.00 EGP",
+      "image": "https://m.media-amazon.com/images/I/61Eea76jXYL._UF894,1000_QL80_.jpg",
+      "description": null,
+      "categories":"Infection-control",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "44",
+      "title": "كمامة ان 95 (علبة)",
+      "price": "349.00 EGP",
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/87/660562/2.jpg?0986",
+      "description": null,
+      "categories":"Infection-control"
+    },
+    {
+      "id": "45",
+      "title": "جل معقم لليدين من إيزي كير 250 مل",
+      "price": "100.00 EGP",
+      "image": "https://m.media-amazon.com/images/I/61LCRm7e04L.jpg",
+      "description": null,
+      "categories":"Infection-control"
+    },
+    {
+      "id": "46",
+      "title": "كحول ايثيلي نقي 70% للجنسين من كيسما اند شابراويشي 60 مل",
+      "price": "70.00 EGP",
+      "image": "https://m.media-amazon.com/images/I/51jYFfMM8SL._UF894,1000_QL80_.jpg",
+      "description": null,
+      "categories":"Infection-control",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "47",
+      "title": "كريم ناتشرز باونتي بالخوخ والكولاجين 300 مل",
+      "price": "209.00 EGP",
+      "image": "https://m.media-amazon.com/images/I/61uFPwii0KL._UF894,1000_QL80_.jpg",
+      "description": null,
+      "categories":"Infection-control",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "48",
+      "title": "ازي ونس شراب مضاد حيوي لعلاج العدوى البكتيرية والالتهابات",
+      "price": "230.00 EGP",
+      "image": "https://www.rosheta.com/upload/34e6b8a0e32dee503f1ce8319289864056e3b9927cb0ff7b6d618d592c8ee0c8.webp",
+      "description": null,
+      "categories":"Infection-control"
+    },
+    {
+      "id": "49",
+      "title": "شراب فيرموكس​ 30 مل",
+      "price": "230.00 EGP",
+      "image": "https://cdn.salla.sa/qEDBY/64e424c9-1ce6-4d7d-8bba-c3d460571a4d-1000x1000-Ae0hG6sCPrFZ8YvjxrmO1SbgcynsllKD8BluLekn.png",
+      "description": "طارد للديدان، لعلاج العدوى بسبب الديدان",
+      "categories":"Infection-control",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "50",
+      "title": "إمديتيل 500 مجم- 10 أقراص",
+      "price": "230.00 EGP",
+      "image": "https://cdn.salla.sa/qVbqW/2852354c-3648-445c-9285-314b7017d8e8-1000x1000-40WmAFGb0ZP4wJulQwAD3W1CmmhveBo9xHqkb1UX.jpg",
+      "description": "مضاد حيوي لعلاج العدوى البكتيرية ",
+      "categories":"Infection-control",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "51",
+      "title": "فازلين لوشن مرطب للجسم بالكاكاو اللامع - 200 مل",
+      "price": "140.00 EGP",
+      "image": "https://misr-online.com/media/catalog/product/cache/ac42f6d34ad0dd11d994f74c78da2bf0/1/2/121807_420879.jpg",
+      "description": null,
+      "categories":"Face-and-body-care"
+    },
+    {
+      "id": "52",
+      "title": "أليجون كريم ترطيب البشرة الجافة",
+      "price": "225.00 EGP",
+      "image": "https://alejon.com/wp-content/uploads/2022/12/Alejon-Facial-moisturizer-for-dry-skin.png",
+      "description": "يحتوي على السيراميد وحمض الهيالورونيك بخصائص مرطبه تعمل على استعادة ترطيب البشره والحفاظ على مستوى المياه في البشره  مما يضمن الاحتفاظ بالرطوبة.",
+      "categories":"Face-and-body-care"
+    },
+    {
+      "id": "53",
+      "title": "كريم أليجون ما بعد جلسات الليزر",
+      "price": "200.00 EGP",
+      "image": "https://alejon.com/wp-content/uploads/2024/07/Alejon-Post-Laser-Cream.png",
+      "description": "تم تصميم كريم Alejon Post Laser خصيصًا لتوفير التهدئة وتأثير التبريد بعد العلاج بالليزر والتقشير والميزوثيرابي وتقشير الجلد. فهو يوفر الإصلاح والترطيب الأساسي للبشرة بالإضافة إلى تقليل الإحساس بارتفاع درجة الحرارة والضيق",
+      "categories":"Face-and-body-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "54",
+      "title": "نيوتروجينا جل مائي مرطب هيدرو بوست - 50 مللي",
+      "price": "340.00 EGP",
+      "image": "https://cdn.salla.sa/jrGRQ/wMC1AMwV3Hgs7Cvh2jJX6X2qT4ks6Kz2IoEiVDbv.jpg",
+      "description": null,
+      "categories":"Face-and-body-care"
+    },
+    {
+      "id": "55",
+      "title": "مجموعة غسول تنظيف الوجه وكريم مضاد لحب الشباب من ستارفيل، 2",
+      "price": "350.00 EGP",
+      "image": "https://extremebeauty-egy.com/wp-content/uploads/2024/03/wp-1709666493573.png",
+      "description": null,
+      "categories":"Face-and-body-care"
+    },
+    {
+      "id": "56",
+      "title": "سيروم هيالورونيك اسيد لوريال هيالورون اكسبرت - 30مل",
+      "price": "420.00 EGP",
+      "image": "https://mcprod.hyperone.com.eg/media/catalog/product/cache/8d4e6327d79fd11192282459179cc69e/3/6/3600523967988s30mll.jpg",
+      "description": "سيروم هيالورون من لوريال باريس هو منتج متخصص في ترطيب وتجديد البشرة، ويأتي في عبوة سعة 30 مل. يُعرف هذا السيروم بتركيبته المتقدمة التي تجمع بين فعالية حمض الهيالورونيك ومكونات أخرى لخلق منتج يضمن ترطيباً عميقاً وتحسين مظهر البشرة.",
+      "categories":"Face-and-body-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "57",
+      "title": "سيروم فيتامين سي للوجه للاشراق ومضاد للشيخوخة من د. راشيل 50مل",
+      "price": "207.00 EGP",
+      "image": "https://attarkuwait.com/wp-content/uploads/2022/08/%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B1%D8%A7%D8%B4%D9%8A%D9%84-%D8%B3%D9%8A%D8%B1%D9%88%D9%85-%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-C-%D8%AA%D9%81%D8%AA%D9%8A%D8%AD-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-50-%D9%85%D9%84.webp",
+      "description": null,
+      "categories":"Face-and-body-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "58",
+      "title": "فيشي اكوايليا ثرمال كريم غني برطمان 50مل",
+      "price": "900.00 EGP",
+      "image": "https://www.se7rek.com/uploads/products/source/000370.webp",
+      "description": "كريم مرطب حمض الهيالورونيك والسكوالان للبشرة الجافة.",
+      "categories":"Face-and-body-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "59",
+      "title": "غسول وجه بماء الورد للبشرة الجافة والعادية من كير اند مور، عبوة 150 ملليلتر",
+      "price": "65.00 EGP",
+      "image": "https://tatayab.com/cdn-cgi/image/quality=80/media/catalog/product/cache/06a980a98afa5c2b2e2874710e14fc80/n/v/nva-011-w15188_vgwqby8e6tguz6sw.jpg",
+      "description": null,
+      "categories":"Face-and-body-care",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "60",
+      "title": "ميديكيوب كريم زيرو بور وان للنهار-50 مل - عطار الولوة",
+      "price": "230.00 EGP",
+      "image": "https://cdn.salla.sa/aYQEz/32739eae-ba59-4861-9547-c14a3e51b91c-500x500-5pJuc7KgIa0rQHonJQrJtMf3gYRI7XiJjv7sjQqD.jpg",
+      "description": "كريم زيرو بور وان داي من ميديكيوب يُشدّ المسام ليمنحكِ لمسة نهائية ناعمة ومُحسّنة. يحتوي على البانثينول والنياسيناميد وحمض الساليسيليك لموازنة مستويات رطوبة البشرة، وتنظيم إفراز الدهون، والحفاظ على رطوبتها لبشرة مشرقة وصحية.",
+      "categories":"Face-and-body-care",
+      "priceNow":"200.00EGP"
+    }
+    
+    
+  ],
+  "offers" : [
+    {
+      "id": "21",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "22",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "23",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers"
+    },
+    {
+      "id": "24",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers"
+    },
+    {
+      "id": "25",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "26",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "27",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers",
+      "priceNow":"200.00EGP"
+    },
+    {
+      "id": "28",
+      "title": "بارافون | 30 كبسولة",
+      "oldPrice": "245.00EGP",
+      "newPrice":"200.00EGP",
+      "image": "https://www.adamonline.com/uploads/products/original/1001919.png",
+      "description": "ألم العضلات الهيكلية • الصرع • صداع التوتر • تلف العضلات الرضحي • لومباغو • داء الفقار • متلازمة جذر عنق الرحم",
+      "categories":"offers",
+      "priceNow":"200.00EGP"
+    }
+    
+  ]
+
+  
+}
+

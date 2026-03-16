@@ -1,0 +1,63 @@
+{
+  "logo": {
+    "image": "/images/logo.jpg",
+    "title": "PharmaCare",
+    "subtitle": "صحتك أولاً"
+  },
+  "description": "نحن نوفر أفضل الأدوية والمنتجات الصحية بأسعار مناسبة وجودة عالية، مع خدمة توصيل سريعة وموثوقة.",
+  "socialIcons": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=61561597318157"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/sidalihcom"
+    },
+    {
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/@sidalihcom?is_from_webapp=1&sender_device=pc"
+    },
+    {
+      "name": "snapchat",
+      "url": "https://www.snapchat.com/add/sidalihcom"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@Sidalihcom"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/sidalihcom"
+    }
+  ],
+  "quickLinks": [
+    { "label": "عن الشركة", "url": "#" },
+    { "label": "منتجاتنا", "url": "#" },
+    { "label": "العروض", "url": "#" },
+    { "label": "فروعنا", "url": "#" },
+    { "label": "تواصل معنا", "url": "#" }
+  ],
+  "customerService": [
+    { "label": "الأسئلة الشائعة", "url": "#" },
+    { "label": "سياسة الاستبدال", "url": "#" },
+    { "label": "شروط الاستخدام", "url": "#" },
+    { "label": "سياسة الخصوصية", "url": "#" },
+    { "label": "طرق الدفع", "url": "#" }
+  ],
+  "newsletter": {
+    "title": "اشترك في النشرة الإخبارية",
+    "placeholder": "بريدك الإلكتروني",
+    "button": "اشتراك"
+  },
+  "paymentMethods": [
+    {
+      "image": "https://www.adamonline.com/uploads/payments_methods/visa-logo.png",
+      "alt": "Visa"
+    },
+    {
+      "image": "https://www.adamonline.com/uploads/payments_methods/mastercard-logo.png",
+      "alt": "MasterCard"
+    }
+  ]
+}

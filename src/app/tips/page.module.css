@@ -1,0 +1,298 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f8fafc;
+    min-height: 100vh;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    padding: 1rem;
+    background: linear-gradient(135deg, #4361ee 0%, #3a0ca3 100%);
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(67, 97, 238, 0.2);
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.header h1 i {
+    font-size: 2.2rem;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+.categoryButtons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.categoryBtn {
+    padding: 1rem 2rem;
+    background-color: white;
+    color: #4361ee;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.categoryBtn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #4361ee 0%, #3a0ca3 100%);
+    z-index: -1;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 50px;
+}
+
+.categoryBtn:hover {
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(67, 97, 238, 0.3);
+}
+
+.categoryBtn:hover::before {
+    opacity: 1;
+}
+
+.categoryBtn i {
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+.categoryBtn:hover i {
+    transform: scale(1.2);
+}
+
+.categoryBtn.active {
+    color: white;
+    background: linear-gradient(135deg, #4361ee 0%, #3a0ca3 100%);
+    box-shadow: 0 0 0 3px white, 0 0 0 6px rgba(67, 97, 238, 0.3);
+}
+
+.tipsContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.tipCard {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    padding: 2rem 2rem 2rem 4rem;
+    /* تعديل هنا */
+    border-left: 5px solid #4361ee;
+    overflow: hidden;
+}
+
+.tipCard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(67, 97, 238, 0.05) 0%, rgba(58, 12, 163, 0.05) 100%);
+    z-index: 0;
+}
+
+.tipCard:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 40px rgba(67, 97, 238, 0.15);
+}
+
+.tipNumber {
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, #4361ee 0%, #3a0ca3 100%);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    box-shadow: 0 4px 10px rgba(67, 97, 238, 0.3);
+    z-index: 1;
+}
+
+.tipCard p {
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #333;
+    position: relative;
+    padding-right: 0;
+    /* تعديل هنا */
+    padding-left: 0.5rem;
+    /* تعديل هنا */
+    text-align: right;
+    /* تعديل هنا */
+    z-index: 1;
+}
+
+.tipCard p::before {
+    content: '"';
+    position: absolute;
+    right: 0;
+    top: -1rem;
+    font-size: 5rem;
+    color: #4361ee;
+    opacity: 0.1;
+    font-family: serif;
+    line-height: 1;
+    z-index: -1;
+}
+
+.noTips {
+    background-color: white;
+    padding: 3rem;
+    border-radius: 15px;
+    text-align: center;
+    grid-column: 1 / -1;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    font-size: 1.2rem;
+    color: #555;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.noTips i {
+    font-size: 2rem;
+    color: #4361ee;
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-15px);
+    }
+
+    60% {
+        transform: translateY(-7px);
+    }
+}
+
+.loading {
+    text-align: center;
+    padding: 3rem;
+    grid-column: 1 / -1;
+    font-size: 1.2rem;
+    color: #4361ee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.loading i {
+    font-size: 2.5rem;
+    color: #4361ee;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem;
+    }
+
+    .header h1 {
+        font-size: 2rem;
+    }
+
+    .tipsContainer {
+        grid-template-columns: 1fr;
+    }
+
+    .categoryBtn {
+        padding: 0.8rem 1.5rem;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 1rem;
+    }
+
+    .header h1 {
+        font-size: 1.6rem;
+    }
+
+    .categoryButtons {
+        gap: 0.7rem;
+    }
+
+    .categoryBtn {
+        padding: 0.7rem 1.2rem;
+        font-size: 0.85rem;
+    }
+
+    .tipCard {
+        padding: 1.5rem;
+    }
+
+    .tipCard p {
+        font-size: 1rem;
+    }
+}

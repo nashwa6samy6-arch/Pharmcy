@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "كنترولك - لعلاج قرحة المعدة والارتجاع",
+    "image": "https://yourdomain.com/images/controloc.jpg",
+    "discount": "-15%",
+    "rating": "★★★★☆",
+    "reviews": 120,
+    "priceNow": "45.00",
+    "priceOld": "53.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 2,
+    "name": "إبيكوجيل شراب - مضاد للحموضة والانتفاخ",
+    "image": "/images/أبيكوجيل.jpg",
+    "discount": "-10%",
+    "rating": "★★★☆☆",
+    "reviews": 50,
+    "priceNow": "25.00",
+    "priceOld": "28.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 3,
+    "name": "موتينورم شراب - لعلاج الغثيان والقيء",
+    "image": "/images/موتينورم-شراب-للترجيع-للأطفال-300x300.webp",
+    "discount": "-12%",
+    "rating": "★★★☆☆",
+    "reviews": 66,
+    "priceNow": "22.00",
+    "priceOld": "25.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 4,
+    "name": "سيليكونزوك - مضاد للفطريات",
+    "image": "/images/images (1).jpeg",
+    "discount": "-20%",
+    "rating": "★★★★☆",
+    "reviews": 34,
+    "priceNow": "32.00",
+    "priceOld": "40.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 5,
+    "name": "سيفترياكسون أمبول عضلي - مضاد حيوي قوي",
+    "image": "/images/e14433a5-572f-422b-a197-dace3c78db21.webp",
+    "discount": "-18%",
+    "rating": "★★★★☆",
+    "reviews": 80,
+    "priceNow": "55.00",
+    "priceOld": "67.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 6,
+    "name": "دابابليكس - لعلاج مرضى السكري من النوع الثاني",
+    "image": "/images/139037.webp",
+    "discount": "-10%",
+    "rating": "★★★☆☆",
+    "reviews": 42,
+    "priceNow": "85.00",
+    "priceOld": "95.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 7,
+    "name": "فيتاسترس - فيتامينات لتقوية الجسم",
+    "image": "/images/images (2).jpeg",
+    "discount": "-5%",
+    "rating": "★★★☆☆",
+    "reviews": 29,
+    "priceNow": "40.00",
+    "priceOld": "42.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 8,
+    "name": "زيرتك شراب - لعلاج الحساسية",
+    "image": "/images/images (3).jpeg",
+    "discount": "-15%",
+    "rating": "★★★★☆",
+    "reviews": 91,
+    "priceNow": "30.00",
+    "priceOld": "35.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 9,
+    "name": "أوستيوكير شراب - مكمل غذائي للكالسيوم",
+    "image": "/images/images (4).jpeg",
+    "discount": "-10%",
+    "rating": "★★★★★",
+    "reviews": 150,
+    "priceNow": "48.00",
+    "priceOld": "53.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 10,
+    "name": "في-دروب - نقط فيتامين د للأطفال",
+    "image": "/images/0tPCqrrwS1nP3psmW4pH6TqJPcsIu8H2AIOWMNIJ.webp",
+    "discount": "-12%",
+    "rating": "★★★☆☆",
+    "reviews": 77,
+    "priceNow": "18.00",
+    "priceOld": "20.50",
+    "availability": "متوفر"
+  },
+  {
+    "id": 11,
+    "name": "توبرين قطرات عين - لعلاج التهابات العين",
+    "image": "/images/images (5).jpeg",
+    "discount": "-15%",
+    "rating": "★★★★☆",
+    "reviews": 45,
+    "priceNow": "26.00",
+    "priceOld": "30.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 12,
+    "name": "أوريكس بخاخ فموي - فاتح شهية للأطفال",
+    "image": "/images/orex-oral-cavity-spray-mouth-wash-60ml-hxrx-01666744378.webp",
+    "discount": "-10%",
+    "rating": "★★★☆☆",
+    "reviews": 33,
+    "priceNow": "22.00",
+    "priceOld": "24.50",
+    "availability": "متوفر"
+  },
+  {
+    "id": 13,
+    "name": "بريدسول فورت شراب - مضاد للالتهابات",
+    "image": "/images/download.jpeg",
+    "discount": "-14%",
+    "rating": "★★★★☆",
+    "reviews": 70,
+    "priceNow": "35.00",
+    "priceOld": "41.00",
+    "availability": "متوفر"
+  },
+  {
+    "id": 14,
+    "name": "فلاجيل أقراص - مضاد للبكتيريا والطفيليات",
+    "image": "/images/9af1680a2d6aa738610631d26cf4130583b40a4fe194309e28f49ff514c80e21.webp",
+    "discount": "-20%",
+    "rating": "★★★★☆",
+    "reviews": 99,
+    "priceNow": "18.00",
+    "priceOld": "22.50",
+    "availability": "متوفر"
+  },
+  {
+    "id": 15,
+    "name": "موبيراكس كريم - مضاد للبكتيريا",
+    "image": "/images/realistic-hand-sanitizer-ad_52683-46463.jpg",
+    "discount": "-10%",
+    "rating": "★★★☆☆",
+    "reviews": 60,
+    "priceNow": "28.00",
+    "priceOld": "31.00",
+    "availability": "متوفر"
+  }
+]

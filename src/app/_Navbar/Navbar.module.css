@@ -1,0 +1,259 @@
+/* Header Styles */
+.header {
+    font-family: "Cairo", sans-serif;
+    background-color: var(--white);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.topbar {
+    background-color: #0d47a1;
+    color: #ffffff;
+    padding: 8px 0;
+}
+
+.topbarcontent {
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* ???????? */
+.top-bar-links {
+    display: flex;
+    gap: 24px;
+}
+
+/* ???????? */
+.top-bar-link {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+/* ???????? */
+.top-bar-link:hover {
+    opacity: 0.8;
+}
+
+.loginbtn {
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    padding: 5px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.loginbtn:hover {
+    background-color: #ffffff;
+    color: #0d47a1;
+}
+
+.mainheader {
+    padding: 16px 0;
+}
+
+.headercontent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.logosection {
+    display: flex;
+    align-items: flex-start
+}
+
+.mainlogo {
+    display: grid;
+    justify-items: center;
+}
+
+.logocircle {
+    width: 48px;
+    height: 48px;
+    /* background: var(--pharmacy-red-light); */
+    overflow: hidden;
+    color: white;
+    /* border-radius: 50%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* .logo-circle img {
+    width: 100%;
+    height: 100%;
+} */
+
+.logotext {
+    margin-right: 12px;
+    display: grid;
+    justify-items: start;
+}
+
+.logotext h1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--pharmacy-text);
+    margin-bottom: 4px;
+}
+
+.logotext p {
+    font-size: 12px;
+    color: var(--muted-text);
+}
+
+.searchsection {
+    flex: 1;
+    max-width: 500px;
+    margin: 0 30px;
+}
+
+.searchwrapper {
+    position: relative;
+}
+
+.searchicon {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    color: var(--muted-text);
+}
+
+.searchinput {
+    width: 100%;
+    padding: 12px 44px 12px 16px;
+    border: 1px solid var(--muted-text);
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 14px;
+    transition: var(--transition);
+    text-align: right;
+}
+
+.searchinput:focus {
+    outline: none;
+    border-color: var(--pharmacy-red);
+    box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.1);
+}
+
+/* ?????? */
+.action-buttons {
+    display: flex;
+    gap: 8px;
+}
+
+/* ????? */
+.action-btn {
+    position: relative;
+    background: none;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    transition: var(--transition);
+    border-radius: 6px;
+}
+
+/* ????? */
+.action-btn:hover {
+    background: var(--pharmacy-grey);
+}
+
+/* ?????? */
+.badge {
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    background: var(--pharmacy-red);
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.navigation {
+    border-top: 1px solid var(--border-color);
+    background: rgba(248, 250, 252, 0.3);
+}
+
+.navmenu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 12px 0;
+}
+
+.navlink {
+    color: var(--pharmacy-text);
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    transition: var(--transition);
+    font-weight: 500;
+}
+
+.navlink:hover,
+.navlink.active {
+    color: var(--pharmacy-red);
+    background: var(--pharmacy-red-light);
+}
+.active {
+  color: #0d6efd;          /* لون مميز */
+  font-weight: bold;       /* الخط أسمك */
+  border-bottom: 3px solid #0d6efd; /* خط تحت اللينك */
+  transition: 0.3s;
+}
+
+/* عربة التسوق */
+/* Navbar.module.css */
+/* اللوجو */
+.logotext h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #152566;
+  font-family: "Alexandria", sans-serif;
+}
+
+.logotext p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #555;
+  font-family: "Alexandria", sans-serif;
+}
+
+/* اللينكات */
+.navlink {
+  font-size: 1rem;
+  font-weight: 200;
+  font-family: "Alexandria", sans-serif;
+  transition: color 0.3s ease;
+}
+
+.navlink:hover {
+  color: #0d6efd;
+}
+
+/* اللينك النشط */
+.active {
+  color: #0d6efd;
+  font-weight: 200;
+  border-bottom: 3px solid #0d6efd;
+}

@@ -1,0 +1,100 @@
+.custom-footer {
+  /* background: linear-gradient(135deg, #357dcf, #18358b); */
+  background: linear-gradient(135deg, #357dcf, #000000);
+  color: #fff;
+  padding: 60px 0 20px;
+  font-family: "Cairo", sans-serif;
+}
+
+.footer-logo h5 {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.footer-logo .subtitle {
+  color: #bbb;
+  font-size: 14px;
+}
+
+.footer-logo .desc {
+  font-size: 15px;
+  color: #ccc;
+}
+
+.social-icons a {
+  color: #fff;
+  margin-left: 10px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #ffcc00;
+  transform: scale(1.2);
+}
+
+.footer-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #ffcc00;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  color: #ccc;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer-links a:hover {
+  color: #ffcc00;
+}
+
+.newsletter-form {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 10px;
+}
+
+.newsletter-form input {
+  text-align: right;
+  border-radius: 8px;
+}
+
+.newsletter-form button {
+  border-radius: 8px;
+}
+
+.payment-methods {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+.payment-icon {
+  background: #fff;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+.footer-separator {
+  border-color: rgba(255, 255, 255, 0.1);
+  margin: 30px 0 15px;
+}
+
+.footer-copy {
+  text-align: center;
+  font-size: 14px;
+  color: #aaa;
+}

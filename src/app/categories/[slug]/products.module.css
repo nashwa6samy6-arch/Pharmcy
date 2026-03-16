@@ -1,0 +1,83 @@
+/* products.module.css */
+section.sectionProduct {
+  padding: 40px 20px;
+  background: #f9f9f9;
+}
+
+section.sectionProduct h1 {
+  font-weight: 700;
+  padding: 10px;
+  color: #102B5D;
+  text-align: center;
+  position: relative;
+}
+
+section.sectionProduct h1::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #5d2a10;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+section.sectionProduct img.image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  transition: transform 0.4s ease;
+}
+
+section.sectionProduct .card {
+  width: 100%;
+  cursor: pointer;
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section.sectionProduct .card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+section.sectionProduct .card-body {
+  padding: 20px;
+  text-align: right;
+}
+
+section.sectionProduct .card .btn {
+  background: linear-gradient(135deg, #102B5D, #102B5D);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 25px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+section.sectionProduct .card .btn:hover {
+  background: linear-gradient(135deg, #050b61, #114083);
+  transform: scale(1.05);
+}
+section.sectionProduct .card .card-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #102B5D;
+  text-align: center;
+  line-height: 1.4;
+}
+
+section.sectionProduct .card .price {
+  color: #28a745; /* أخضر */
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
