@@ -7,7 +7,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-export default function OfferDetails() {
+export default function generateStaticParams() {
   const { id } = useParams();
   const [offer, setOffer] = useState(null);
   const [quantity, setQuantity] = useState(1);

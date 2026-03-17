@@ -4,7 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import productsData from "../../../../data/db.json";
 import style from "./style.module.css";
 
-export default function ProductDetails() {
+export default function generateStaticParams() {
   const { id } = useParams();
   const router = useRouter();
   const [product, setProduct] = useState(null);
