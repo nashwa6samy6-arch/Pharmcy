@@ -6,7 +6,7 @@ import Link from "next/link";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-export default function Page({ params }) {
+export default function generateStaticParams({ params }) {
   const { slug } = params;
   const [cart, setCart] = useState([]);
 
